@@ -16,7 +16,10 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](img/desktop.jpeg)
+- desktop
+![desktop](img/desktop.jpeg)  
+
+- mobile
 <div style="display:flex;width:300px;height: 300px;">
 <img src="img/mobile-01.png" style="max-width: 100%;"/>
 <img src="img/mobile-02.png" style="max-width: 100%;"/>
@@ -26,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- [Live Site URL][(https://your-live-site-url.com](https://meitung473.github.io/time-tracking-dashboard-main/))
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://meitung473.github.io/time-tracking-dashboard-main/))
 
 ## My process
 1. install react by create-react-app
