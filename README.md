@@ -20,16 +20,13 @@ Users should be able to:
 ![desktop](img/desktop.jpeg)  
 
 - mobile
-<div style="display:flex;width:300px;height: 300px;">
-<img src="img/mobile-01.png" style="max-width: 100%;"/>
-<img src="img/mobile-02.png" style="max-width: 100%;"/>
-</div>
+![mobile](img/mobile-01.png)  
 
 
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-reactjs-styledcomponent-BkFnvCvr9)
 - [Live Site URL](https://meitung473.github.io/time-tracking-dashboard-main/))
 
 ## My process
